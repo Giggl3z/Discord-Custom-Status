@@ -12,7 +12,7 @@ else:
 token = "YOUR TOKEN"
 
 while True:
-  message = "ravioli"
+  message = input("Enter message: ")
   message2 = message
 
   loop = ""
